@@ -1,0 +1,20 @@
+[
+    {
+      "role": "Software Engineering Intern",
+      "organization": "Ticketmaster",
+      "startDate": "June, 2024",
+      "endDate": "August, 2024",
+      "experiences": ["Participated in SAFE/Agile development including daily stand-ups and PI planning and used Jira to manage daily workload", 
+      "Participated in SAFE/Agile development including daily stand-ups and PI planning and used Jira to manage daily workload", 
+      "Developed a robust framework to collect and store data from a Java service, aimed at increasing the historical tracking of metrics from 2 weeks to 2 years, analyzing API efficiency, demonstrating experience in cloud-based data management and monitoring"],
+      "imageSrc": "history/ticketmaster.png"
+    },
+    {
+      "role": "Customer Associate / Bagger",
+      "organization": "Harris Teeter Inc.",
+      "startDate": "May, 2021",
+      "endDate": "April, 2022",
+      "experiences": ["Assisted in packing customers’ items, returning carts and maintaining a clean, safe and welcoming store for customers"],
+      "imageSrc": "history/harristeeter.png"
+    }
+  ]
