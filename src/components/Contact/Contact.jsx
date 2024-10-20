@@ -21,32 +21,32 @@ export const Contact = () => {
             </li>
           </div>
           <div className={styles.socialIcons}>
-          <li className={styles.link}>
-            <FaLinkedin className={styles.icon} />
-            <a href="https://www.linkedin.com/in/logan-kemprowski/">
-              @logan-kemprowski
-            </a>
-          </li>
+            <li className={styles.link}>
+              <FaLinkedin className={styles.icon} />
+              <a href="https://www.linkedin.com/in/logan-kemprowski/">
+                @logan-kemprowski
+              </a>
+            </li>
           </div>
           <div className={styles.socialIcons}>
-          <li className={styles.link}>
-            <FaGithub className={styles.icon} />
-            <a href="https://github.com/logank5">GitHub: @logank5</a>
-          </li>
+            <li className={styles.link}>
+              <FaGithub className={styles.icon} />
+              <a href="https://github.com/logank5">GitHub: @logank5</a>
+            </li>
           </div>
           <div className={styles.socialIcons}>
-          <li className={styles.link}>
-            <FaItchIo className={styles.icon} />
-            <a href="https://github.com/logank5">Itch.Io: @logank55</a>
-          </li>
+            <li className={styles.link}>
+              <FaItchIo className={styles.icon} />
+              <a href="https://logank55.itch.io">Itch.Io: @logank55</a>
+            </li>
           </div>
           <div className={styles.socialIcons}>
-          <li className={styles.link}>
-            <FaFileDownload className={styles.icon} />
-            <a href="Logan_Kemprowski_Resume.pdf" download>
-              Resume
-            </a>
-          </li>
+            <li className={styles.link}>
+              <FaFileDownload className={styles.icon} />
+              <a href="Logan_Kemprowski_Resume.pdf" download>
+                Resume
+              </a>
+            </li>
           </div>
         </ul>
       </div>
