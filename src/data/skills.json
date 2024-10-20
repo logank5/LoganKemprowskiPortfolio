@@ -1,42 +1,66 @@
 [
     {
-      "title": "AWS Lambda",
+      "title": "Lambda",
       "imageSrc": "skills/lambda.png"
     },  
     {
+      "title": "Timestream",
+      "imageSrc": "skills/timestream.png"
+    },
+    {
+      "title": "cloudwatch",
+      "imageSrc": "skills/cloudwatch.png"
+    },
+    {
       "title": "Java",
       "imageSrc": "skills/java.png"
-    },
-    {
-      "title": "CSS",
-      "imageSrc": "skills/css.png"
-    },
-    {
-      "title": "React",
-      "imageSrc": "skills/react.png"
     },
     {
       "title": "Python",
       "imageSrc": "skills/python.png"
     },
     {
+      "title": "CSS",
+      "imageSrc": "skills/css.png"
+    },
+    {
+      "title": "JavaScript",
+      "imageSrc": "skills/javascript.png"
+    },
+    {
+      "title": "C",
+      "imageSrc": "skills/C.png"
+    },
+    {
       "title": "SQL",
       "imageSrc": "skills/sql.png"
     },
     {
-      "title": "Timestream",
-      "imageSrc": "skills/timestream.png"
+      "title": "HTML",
+      "imageSrc": "skills/html.png"
+    },
+    {
+      "title": "Linux",
+      "imageSrc": "skills/linux.png"
+    },
+    {
+      "title": "React",
+      "imageSrc": "skills/react.png"
     },
     {
       "title": "Gitlabs",
       "imageSrc": "skills/gitlab.png"
     },
     {
+      "title": "git",
+      "imageSrc": "skills/git.png"
+    },
+    {
       "title": "JIRA",
       "imageSrc": "skills/jira.png"
     },
     {
-      "title": "HTML",
-      "imageSrc": "skills/html.png"
+      "title": "Postman",
+      "imageSrc": "skills/postman.png"
     }
   ]
