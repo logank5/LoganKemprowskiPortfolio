@@ -26,7 +26,7 @@
     {
       "title": "Feather Finder",
       "imageSrc": "projects/FeatherFinder.png",
-      "description": "A full-stack web application that allows users to find local birds, and track any sightings they see. Connected to various bird information APIs. Formerly hosted on an ec2 server",
+      "description": "A full-stack web application that allows users to find and track local birds. Connected to various bird APIs. Formerly hosted on an ec2 server",
       "skills": ["Java", "JavaScript", "CSS", "HTML", "EC2", "MySQL"],
       "demo": "",
       "source": ""
