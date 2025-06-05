@@ -3,7 +3,7 @@
       "title": "Tessera",
       "imageSrc": "projects/tessera.png",
       "description": "A web application simulating a fully functional ticketing website",
-      "skills": ["React", "JavaScript", "Node", "Vite", "CSS"],
+      "skills": ["React", "JavaScript", "Python", "Node", "Vite", "CSS"],
       "demo": "",
       "source": "https://github.com/logank5/tessera"
     },
@@ -11,7 +11,7 @@
       "title": "BookHive",
       "imageSrc": "projects/bookhive.png",
       "description": "A web application to track and rate books, with educational functionality to add and create classes",
-      "skills": ["SQL", "Steamlit", "Python", "HTML", "CSS"],
+      "skills": ["MySQL", "Streamlit", "Python", "HTML", "CSS"],
       "demo": "",
       "source": ""
     },
