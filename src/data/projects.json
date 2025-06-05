@@ -8,6 +8,30 @@
       "source": "https://github.com/logank5/tessera"
     },
     {
+      "title": "BookHive",
+      "imageSrc": "projects/bookhive.png",
+      "description": "A web application to track and rate books, with educational functionality to add and create classes",
+      "skills": ["SQL", "Steamlit", "Python", "HTML", "CSS"],
+      "demo": "",
+      "source": ""
+    },
+    {
+      "title": "Hungry Pikachu",
+      "imageSrc": "projects/hungrypikachuthumbnail.png",
+      "description": "A game made with python and pygame, incorporating visuals and sound design. Play as pikachu and collect berries!",
+      "skills": ["Python", "Pygame", "Pygbag"],
+      "demo": "https://logank55.itch.io/hungry-pikachu",
+      "source": "https://github.com/logank5/Hungry-Pikachu"
+    },
+    {
+      "title": "Feather Finder",
+      "imageSrc": "projects/FeatherFinder.png",
+      "description": "A full-stack web application that allows users to find local birds, and track any sightings they see. Connected to various bird information APIs. Formerly hosted on an ec2 server",
+      "skills": ["Java", "JavaScript", "CSS", "HTML", "EC2", "MySQL"],
+      "demo": "",
+      "source": ""
+    },
+    {
       "title": "Books Database",
       "imageSrc": "projects/BooksDB.png",
       "description": "A web application for holding your favorite books in a mysql database, connected to the google search API, deployed on an ec2 server",

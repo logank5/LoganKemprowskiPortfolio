@@ -17,7 +17,7 @@ export const About = () => {
             <div className={styles.aboutItemText}>
               <h3>Computer Science Student</h3>
               <p>
-                I am a junior at Virginia Tech, with a passion for Computer Science and problem solving
+                I am a senior at Virginia Tech, with a passion for Computer Science and problem solving
               </p>
               <p>
                 I am currently seeking a summer 2025 internship 

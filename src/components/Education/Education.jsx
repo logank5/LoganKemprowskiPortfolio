@@ -19,7 +19,7 @@ export const Education = () => {
               <p>Degree: Bachelor's</p>
               <p>Major: Computer Science</p>
               <p>Minor: Human Computer Interaction</p>
-              <p>Current GPA: 3.62</p>
+              <p>Current GPA: 3.72</p>
               <p>Expected Graduation: May 2026</p>
             </div>
             <img
@@ -33,7 +33,7 @@ export const Education = () => {
             <div className={styles.educationItemText}>
               <h3>Freedom High School</h3>
               <p>Degree: Advanced Diploma</p>
-              <p>GPA: 4.63</p>
+              <p>GPA: 4.59</p>
               <p>Graduation: June 2022</p>
             </div>
             <img
