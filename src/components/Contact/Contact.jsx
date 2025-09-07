@@ -43,7 +43,7 @@ export const Contact = () => {
           <div className={styles.socialIcons}>
             <li className={styles.link}>
               <FaFileDownload className={styles.icon} />
-              <a href="Logan_Kemprowski_Resume.pdf" download>
+              <a href="assets\contact\Logan_Kemprowski_Resume.pdf" download>
                 Resume
               </a>
             </li>

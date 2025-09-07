@@ -20,7 +20,7 @@ export const About = () => {
                 I am a senior at Virginia Tech, with a passion for Computer Science and problem solving
               </p>
               <p>
-                I am currently seeking a full time software engineering/development position following my graduation of May 2026.
+                I am currently seeking a full-time software engineering/development position following my graduation of May 2026.
               </p>
             </div>
           </li>
