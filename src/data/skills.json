@@ -40,6 +40,10 @@
       "imageSrc": "skills/html.png"
     },
     {
+      "title": "YAML",
+      "imageSrc": "skills/YAML.png"
+    },
+    {
       "title": "Linux",
       "imageSrc": "skills/linux.png"
     },
@@ -48,12 +52,24 @@
       "imageSrc": "skills/react.png"
     },
     {
+      "title": "GHA",
+      "imageSrc": "skills/gha.png"
+    },
+    {
       "title": "Gitlabs",
       "imageSrc": "skills/gitlab.png"
     },
     {
       "title": "git",
       "imageSrc": "skills/git.png"
+    },
+    {
+      "title": "docker",
+      "imageSrc": "skills/docker.png"
+    },
+    {
+      "title": "Kubernetes",
+      "imageSrc": "skills/kubernetes.png"
     },
     {
       "title": "JIRA",

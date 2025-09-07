@@ -1,11 +1,22 @@
 [
     {
+      "role": "Cloud Operations Intern",
+      "organization": "Somos Inc.",
+      "startDate": "June, 2025",
+      "endDate": "August, 2025",
+      "experiences": ["Participated in SAFE/Agile development including daily stand-ups used Jira to manage daily workload", 
+      "Migrated 20+ repos from Codefresh to GitHub Actions, creating automated CI/CD pipelines that reduced costs and improved maintainability", 
+      "Automated Docker image promotions, Helm chart pushes, Kubernetes deployments, and security scans to improve security within pipelines using YAML workflows",
+      "Contributed to the cross-functional intern Capstone Project, developing a Jira Best Practices Hub and Dynamic Dashboard to enhance reporting and visibility"],
+      "imageSrc": "history/somos.png"
+    },
+    {
       "role": "Software Engineering Intern",
       "organization": "Ticketmaster",
       "startDate": "June, 2024",
       "endDate": "August, 2024",
       "experiences": ["Participated in SAFE/Agile development including daily stand-ups and PI planning and used Jira to manage daily workload", 
-      "Participated in SAFE/Agile development including daily stand-ups and PI planning and used Jira to manage daily workload", 
+      "Built Tessera, a full-stack web app simulating a ticketing platform, using Python/Flask, ReactJS, SQL, Stripe, and Gmail integrations", 
       "Developed a robust framework to collect and store data from a Java service, aimed at increasing the historical tracking of metrics from 2 weeks to 2 years, analyzing API efficiency, demonstrating experience in cloud-based data management and monitoring"],
       "imageSrc": "history/ticketmaster.png"
     },
